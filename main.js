@@ -26,7 +26,7 @@ var bird={
     x: 91.5,
     y: 252,
     v: 0,//van toc 
-    a: 0.2//gia toc
+    a: 0.3//gia toc
 }
 var pipe={
     x: 480,

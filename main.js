@@ -26,7 +26,7 @@ var bird={
     x: 91.5,
     y: 252,
     v: 0,//van toc 
-    a: 0.3//gia toc
+    a: 0.2//gia toc
 }
 var pipe={
     x: 480,
@@ -73,7 +73,7 @@ function resetGame() {
     bird.x = 91.5;
     bird.y = 252;
     bird.v = 0;
-    bird.a = 0.3;
+    bird.a = 0.2;
 
     pipe.x = 480;
     pipe.y = -60;
